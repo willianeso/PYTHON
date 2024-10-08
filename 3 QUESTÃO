@@ -1,0 +1,11 @@
+""" 03 - Desenvolva um programa que armazene o número 3 em uma variável chamada "num1"
+e o número 4 em uma variável chamada "num2". Multiplique essas variáveis e exiba o
+produto. """
+
+num1 = 3
+num2 = 4
+resultado = 0
+
+resultado = num1 * num2
+
+print(num1, "x", num2, "é:", resultado)
