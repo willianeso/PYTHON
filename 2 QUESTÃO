@@ -3,8 +3,8 @@ resultado. """
 
 num1 = 10
 num2 = 20
-resultado = 0
+subtracao = 0
 
-resultado = num1 - num2
+subtracao = num1 - num2
 
-print(num1, "-", num2, "é:", resultado)
+print("A subtração de", num1, "-", num2, "é:", subtracao)
