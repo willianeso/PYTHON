@@ -1,0 +1,12 @@
+""" 05 - Cálculo da área de um retângulo: Escreva um programa que armazene a largura de um
+retângulo em uma variável chamada "largura" (por exemplo, 5) e a altura em uma variável
+chamada "altura" (por exemplo, 10). Calcule a área do retângulo (largura x altura) e exiba o
+resultado. """
+
+largura = 5
+altura = 10
+area = 0
+
+area = largura * altura
+
+print("A largura do retângulo é 5 e altura é 10, sendo assim a área do retâgulo é:", area)
