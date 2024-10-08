@@ -4,8 +4,8 @@ produto. """
 
 num1 = 3
 num2 = 4
-resultado = 0
+produto = 0
 
-resultado = num1 * num2
+produto = num1 * num2
 
-print(num1, "x", num2, "é:", resultado)
+print("O produto de", num1, "x", num2, "é:", produto)
