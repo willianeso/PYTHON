@@ -1,0 +1,11 @@
+""" 04 - Faça um programa que armazene o número 100 em uma variável chamada "dividendo"
+e o número 5 em uma variável chamada "divisor". Divida "dividendo" por "divisor" e mostre o
+quociente. """
+
+dividendo = 100
+divisor = 5
+quociente = 0
+
+quociente = dividendo / divisor
+
+print("O quociente de", dividendo, "/" ,divisor, "é:", quociente)
