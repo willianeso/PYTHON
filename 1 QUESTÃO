@@ -3,8 +3,8 @@ exiba o resultado. """
 
 num1 = 5
 num2 = 7
-resultado = 0
+soma = 0
 
-resultado = num1 + num2 
+soma = num1 + num2 
 
-print(num1, "+", num2, " é:", resultado)
+print("A soma de", num1, "+", num2, " é:", soma)
