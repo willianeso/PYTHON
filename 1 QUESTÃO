@@ -1,0 +1,10 @@
+""" 01 Crie um programa que armazene o número 5 em uma variável chamada "num1" e o número 7 em uma variável chamada "num2". Em seguida, some essas variáveis e 
+exiba o resultado. """
+
+num1 = 5
+num2 = 7
+resultado = 0
+
+resultado = num1 + num2 
+
+print(num1, "+", num2, " é:", resultado)
