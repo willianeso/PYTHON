@@ -1,0 +1,10 @@
+""" 02 - Escreva um programa que armazene o número 10 em uma variável chamada "num1" e o número 20 em uma variável chamada "num2". Subtraia "num1" de "num2" e mostre o
+resultado. """
+
+num1 = 10
+num2 = 20
+resultado = 0
+
+resultado = num1 - num2
+
+print(num1, "-", num2, "é:", resultado)
