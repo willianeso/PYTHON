@@ -1,0 +1,9 @@
+""" 06 - Cálculo da circunferência de um círculo: Desenvolva um programa que armazene o raio
+de um círculo em uma variável chamada "raio" (por exemplo, 3). Calcule a circunferência do
+círculo (2 x π x raio) e exiba o resultado, onde π (pi) é aproximadamente 3.14. """
+
+raio = 3
+pi = 3.14
+circunferencia = 2 * pi * raio
+
+print(f'A circuferência do círculo é: {circunferencia:.2f}')
