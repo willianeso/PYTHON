@@ -1,0 +1,8 @@
+""" 10 - Escreva um programa que armazene o valor do lado de um quadrado em uma variável
+chamada "lado" (por exemplo, 6). Calcule o perímetro do quadrado (4 x lado) e exiba o
+resultado. """
+
+lado = 6
+perimetro = (4 * lado)
+
+print(f'O perímetro do quadrado é: {perimetro}')
