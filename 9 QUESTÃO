@@ -1,0 +1,10 @@
+""" Cálculo do percentual de um número: Desenvolva um programa que armazene um
+número inteiro em uma variável chamada "total" (por exemplo, 200) e outro número inteiro em
+uma variável chamada "percentual" (por exemplo, 25). Calcule o percentual desse número
+((total x percentual) / 100) e exiba o resultado. """
+
+total = 200
+percentual = 25
+resultado = ((total * percentual) / 100)
+
+print(f'{percentual}% de {total} é: {resultado}')
