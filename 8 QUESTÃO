@@ -1,0 +1,8 @@
+""" 08 - Conversão de temperatura Celsius para Fahrenheit: Escreva um programa que armazene
+a temperatura em graus Celsius em uma variável chamada "celsius" (por exemplo, 20).
+Converta essa temperatura para Fahrenheit ((celsius x 9/5) + 32) e exiba o resultado. """
+
+celsius = 20
+fahrenheit = ((celsius * 9 / 5) + 32)
+
+print(f'A temperatura em Fahrenheit é: {fahrenheit:.2f}')
