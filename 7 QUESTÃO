@@ -1,0 +1,9 @@
+""" 07 - Cálculo do volume de uma esfera: Faça um programa que armazene o raio de uma
+esfera em uma variável chamada "raio" (por exemplo, 4). Calcule o volume da esfera ((4/3) x
+π x raio^3) e exiba o resultado. """
+
+raio = 4
+pi = 3.14
+volume = ((4/3) * pi *(raio ** 3))
+
+print(f'O volume da esfera é: {volume:.2f}')
